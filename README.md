@@ -1,2 +1,1 @@
-# APIs-Financial-analysis
-financial analysis jupyter notebook
+#Creating jupyter notebooks to analyze data using APIs
